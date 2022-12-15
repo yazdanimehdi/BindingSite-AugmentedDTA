@@ -6,7 +6,7 @@ This work is the continuation of our other work ("AttentionSiteDTI: an interpret
 https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbac272/6640006)
 
 # Cite
-If you find this repo to be useful, please cite our paper. Thank you.
+If you find this repo to be useful or if you use the Kiba and Davis datasets with 3D structures included, please cite our papers. Thank you.
 AttentionSiteDTI:
 ```
 @article{yazdani2022attentionsitedti,
