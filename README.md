@@ -32,7 +32,6 @@ AttentionSiteDTI:
 ```
 BindingSiteAugmentedDTA
 ```
-yousefi2022bindingsiteaugmenteddta,
 @article{yousefi2022bindingsiteaugmenteddta,
     author = {Yousefi, Niloofar and Yazdani-Jahromi, Mehdi and Tayebi, Aida and Kolanthai, Elayaraja and Neal, Craig J and Banerjee, Tanumoy and Gosai, Agnivo and Balasubramanian, Ganesh and Seal, Sudipta and Ozmen Garibay, Ozlem},
     title = "{BindingSite-AugmentedDTA: enabling a next-generation pipeline for interpretable prediction models in drug repurposing}",
